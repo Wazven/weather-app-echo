@@ -1,7 +1,7 @@
 
-# Aplikasi CLI Kasir Golang
+# Weather App using Echo Framework
 
-Pembuatan Aplikasi ini dimaksudkan untuk menyelesaikan Latihan-1-IO Golang MIKTI
+Assigment MIKTI for using Framework Echo to making weather API
 
 
 
